@@ -1,16 +1,46 @@
-# assistant_virtuel
+# 🤖 Assistant Virtuel Intelligent
 
-A new Flutter project.
+Une application mobile Flutter qui intègre un **assistant virtuel 3D animé**, capable de :
+- discuter avec l'utilisateur,
+- gérer ses tâches, rappels et alarmes par commande vocale,
+- lire et résumer des fichiers PDF,
+- proposer un espace e-learning interactif.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fonctionnalités principales
 
-A few resources to get you started if this is your first Flutter project:
+- 👤 **Assistant animé 3D** (homme ou femme)
+- 🗣️ **Contrôle vocal** : Ajout de tâches, rappels, alarmes
+- 📝 **Prise de notes intelligente**
+- 📚 **Lecture de PDF avec compréhension**
+- 🧠 **Espace e-learning** avec interactions
+- 🧩 Interface gamifiée et intuitive
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Plateformes cibles
+
+- ✅ Android
+- ✅ iOS (prochainement)
+- ✅ Web (en cours de test)
+
+---
+
+## 🔧 Technologies utilisées
+
+- Flutter
+- Firebase Auth (Google, email, LinkedIn)
+- Text-to-Speech / Speech Recognition
+- Animation 3D / Personnage interactif
+- IA embarquée pour compréhension locale
+
+---
+
+## 🚀 Comment démarrer
+
+```bash
+git clone https://github.com/ton-nom-utilisateur/assistant_virtuel.git
+cd assistant_virtuel
+flutter pub get
+flutter run
