@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007992769561",
+    "project_id": "assistant-virtuel-57577",
+    "storage_bucket": "assistant-virtuel-57577.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007992769561:android:cb00a1b9dec94479e3ee88",
+        "android_client_info": {
+          "package_name": "com.example.assistant_virtuel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl5kAGRGSBaLwBW6reaF2tn4YoBRyWbD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
