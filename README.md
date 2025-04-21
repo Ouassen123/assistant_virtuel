@@ -1,46 +1,51 @@
-# 🤖 Assistant Virtuel Intelligent
+# 🤖 Smart Virtual Assistant
 
-Une application mobile Flutter qui intègre un **assistant virtuel 3D animé**, capable de :
-- discuter avec l'utilisateur,
-- gérer ses tâches, rappels et alarmes par commande vocale,
-- lire et résumer des fichiers PDF,
-- proposer un espace e-learning interactif.
-
----
-
-## ✨ Fonctionnalités principales
-
-- 👤 **Assistant animé 3D** (homme ou femme)
-- 🗣️ **Contrôle vocal** : Ajout de tâches, rappels, alarmes
-- 📝 **Prise de notes intelligente**
-- 📚 **Lecture de PDF avec compréhension**
-- 🧠 **Espace e-learning** avec interactions
-- 🧩 Interface gamifiée et intuitive
+A Flutter mobile application featuring a **3D animated virtual assistant** that can:
+- chat with the user,
+- manage tasks, reminders, and alarms via voice commands,
+- read and summarize PDF files,
+- provide an interactive e-learning space.
 
 ---
 
-## 📱 Plateformes cibles
+## ✨ Key Features
+
+- 👤 **3D Animated Assistant** (male or female)
+- 🗣️ **Voice Control**: Add tasks, reminders, alarms
+- 📝 **Smart Note-taking**
+- 📚 **PDF Reading with AI-powered Understanding**
+- 🧠 **E-learning Space** with interactive learning
+- 🧩 Gamified and user-friendly interface
+
+---
+
+## 📱 Target Platforms
 
 - ✅ Android
-- ✅ iOS (prochainement)
-- ✅ Web (en cours de test)
+- ✅ iOS (coming soon)
+- ✅ Web (under testing)
 
 ---
 
-## 🔧 Technologies utilisées
+## 🔧 Tech Stack
 
 - Flutter
-- Firebase Auth (Google, email, LinkedIn)
+- Firebase Authentication (Google, Email, LinkedIn)
 - Text-to-Speech / Speech Recognition
-- Animation 3D / Personnage interactif
-- IA embarquée pour compréhension locale
+- 3D Character Animation
+- Offline AI for local understanding
 
 ---
 
-## 🚀 Comment démarrer
+## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/ton-nom-utilisateur/assistant_virtuel.git
+git clone https://github.com/your-username/assistant_virtuel.git
 cd assistant_virtuel
 flutter pub get
 flutter run
+```
+
+## 👨‍💻 Created by
+Reda Ouassen
+software engineer Full Stack Developer & AI Enthusiast
